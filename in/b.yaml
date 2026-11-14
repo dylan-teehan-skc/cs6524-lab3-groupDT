@@ -1,0 +1,2 @@
+step: 12
+min_move: 3  # camera is still so anything that doesnt move is background
